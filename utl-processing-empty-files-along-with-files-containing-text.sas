@@ -1,6 +1,6 @@
 Processing empty files along with files containing text                                                           
                                                                                                                   
-Not sure I full undersyand the ops issue, but this may help.                                                 
+Not sure I full undersyand the ops issue, but this may help.                                          
                                                                                                                   
 Solution courtesy of Paul Dorfmans original post                                                                  
                                                                                                                   
